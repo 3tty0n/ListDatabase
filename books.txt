@@ -1,0 +1,11 @@
+(TITLE AUTHORS PUBLISHERS)
+((Harry_Potter_and_the_Philosopher's_Stone (J.K.Rowling) Bloomsbury)
+(The_Catcher_in_the_Rye (J.D.Salinger) Little,_Brown_and_Company)
+(Elements_of_Information_Theory (T.M.Cover J.A.Thomas) Wiley)
+(How_to_Design_Programs (M.Felleisen R.B.Findler M.Flatt S.Krishnamurthi)
+MIT_Press))
+
+(TITLE Harry_Potter_and_the_Philosopher's_Stone)
+(TITLE The_Catcher_in_the_Rye)
+(HOGE AAA)
+(AUTHORS Yasunari_Kawabata)
